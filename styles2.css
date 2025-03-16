@@ -117,7 +117,7 @@ section h1{
 }
 .product-image{
     display: inline-block;
-    margin: 30px;
+    margin-left: 50px;
 }
 
 .product-image :hover{
