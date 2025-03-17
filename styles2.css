@@ -192,7 +192,7 @@ footer{
     .product{
         display: inline-block;
         flex-wrap: nowrap;
-        margin-left: 15px;
+        margin-left: 20px;
         }
     .product-image{
             margin: 30px;
