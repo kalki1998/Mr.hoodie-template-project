@@ -162,6 +162,7 @@ footer{
     font-family: 'Courier New', Courier, monospace;
     font-weight: lighter;
     text-align: center;
+    margin: 30px;
 }
 
 @media(max-width:600px){
