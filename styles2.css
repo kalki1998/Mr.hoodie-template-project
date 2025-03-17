@@ -121,6 +121,7 @@ section h1{
 }
 .product{
     margin-left: 100px;
+    margin-bottom: 30px;
 }
 .product-image :hover{
     padding: 10px;
