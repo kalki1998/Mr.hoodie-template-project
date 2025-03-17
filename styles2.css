@@ -113,7 +113,6 @@ section h1{
 .product-image img{
     width: 20vw;
     height: 20vw;
-    padding: 20px;
     transition: all 0.3s linear;   
 }
 .product-image{
@@ -121,7 +120,7 @@ section h1{
     margin: 60px;
 }
 .product{
-    margin: 100px;
+    margin-left: 100px;
 }
 .product-image :hover{
     padding: 10px;
